@@ -33,7 +33,7 @@ public class Main {
 
         for (int i =0; i < filesList.length; i++) {
             String[] name = filesList[i].toString().split("e");
-            String new_name = "D:/Java/Project/OPENCV/Ball Tracking/data/image"+ i +".jpg";
+            String new_name = ".../Ball Tracking/data/image"+ i +".jpg";
             path.add(new_name);
         }
 
