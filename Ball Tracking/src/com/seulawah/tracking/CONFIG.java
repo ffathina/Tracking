@@ -5,7 +5,7 @@ import org.opencv.core.Scalar;
 
 public class CONFIG {
 
-    public static String path = "Ball Tracking/data";
+    public static String path = ".../Ball Tracking/data";
 
     public static double MIN_BLOB_AREA = 50;
     public static double MAX_BLOB_AREA = 500;
